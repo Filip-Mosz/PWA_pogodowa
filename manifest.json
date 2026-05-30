@@ -1,0 +1,19 @@
+{
+  "name": "WeatherApp",
+  "short_name": "WeatherApp",
+  "description": "PWA app to checking weather in specified place taking data from API",
+  "theme_color": "#1d83d4",
+  "background_color": "#51c97a",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "lang": "pl-PL",
+  "scope": "/",
+  "start_url": "/apka_pogodowa/",
+  "icons": [
+      {
+        "src": "./icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+}
